@@ -24,5 +24,5 @@ This website is used for Marking Purpose for subject CP1806 Web Design.
 <img width="500" height="350" alt="Photo Gallery Screen" src="https://github.com/01richardrs/Assignment2/blob/master/Screen/PhotoGallery.png">
 <img width="500" height="350" alt="Signup Form Screen" src="https://github.com/01richardrs/Assignment2/blob/master/Screen/SignupForm.png">
 <img width="500" height="350" alt="Ticket Screen" src="https://github.com/01richardrs/Assignment2/blob/master/Screen/Ticket.png">
-More Pages can be seen by downloading the files and open index.html /  or some in Screen Folder
 </p>
+More Pages can be seen by downloading the files and open index.html /  or some in Screen Folder
